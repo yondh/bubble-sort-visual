@@ -10,8 +10,8 @@ const SortNode = (props) => {
     });
 
     const style = {
-        height: `${Math.abs(value) * 10}px`,
-        bottom: value < 0 ? `${value * 10}px` : 0
+        height: `${Math.abs(value) * 7}px`,
+        bottom: value < 0 ? `${value * 7}px` : 0
     };
 
     const numberClass = value > 0 ? "number-indicator-pos" : "number-indicator-neg";
