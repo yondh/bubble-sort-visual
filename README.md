@@ -1,3 +1,27 @@
+## Explanation
+
+The app sorts a given list of numbers using the Bubble Sort Algorithm.
+The sorting algorithm is visualized using React.
+The app highlights only  actions that result in a swap (Red and blue highlights the nodes that are compared and resulted in a swap)
+
+## Running instructions
+
+### `npm start`
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## References
+
+The bubble sort algo was taken from the following link: https://medium.com/javascript-algorithms/javascript-algorithms-bubble-sort-3d27f285c3b2
+
+** Some modification were made to fit the app.
+
+## Assumptions
+
+There is no input validation
+
+---------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
